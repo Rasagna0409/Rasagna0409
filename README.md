@@ -6,6 +6,5 @@
  <li> I worked as a Quality Analyst for 2 years in India </li>
  <li> I am Interested in Frontend developing </li>
  <li> I Would like to learn React and Node </li>
- <li> New</li>
 </ul>
 
